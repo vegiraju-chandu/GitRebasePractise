@@ -32,6 +32,13 @@ class ViewController: UIViewController {
         
         self.view.addSubview(masterView);
         
+        let submasterView = UIView();
+        submasterView.frame = CGRect(x: 0, y: 0, width: 100, height: 200);
+        submasterView.backgroundColor = UIColor.yellow;
+        submasterView.center = CGPoint(x: self.view.bounds.size.width/2, y: self.view.bounds.size.height/2);
+        
+        self.view.addSubview(submasterView);
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
     

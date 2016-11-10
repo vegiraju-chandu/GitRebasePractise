@@ -25,6 +25,14 @@ class ViewController: UIViewController {
         ref.child("users/(user.uid)/longitude").setValue("78.232953");
         ref.child("users/(user.uid)/lot_name").setValue("Ameerpet");
         
+        let devView = UIView();
+        devView.frame = CGRect(x: 0, y: 0, width: 100, height: 200);
+        devView.backgroundColor = UIColor.red;
+        devView.center = CGPoint(x: self.view.bounds.size.width/2, y: self.view.bounds.size.height/2);
+        
+        self.view.addSubview(devView);
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
     

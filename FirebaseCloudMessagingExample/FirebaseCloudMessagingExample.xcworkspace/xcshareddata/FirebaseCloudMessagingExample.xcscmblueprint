@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6CD4885B58C2AC60F41C1DFF5D6ECAE747E26222",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6CD4885B58C2AC60F41C1DFF5D6ECAE747E26222" : 9223372036854775807,
+    "E245F652575F4D66645E601403E0619FAB9D81EB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CD4F8E0B-F731-42C8-B6BF-0EF33F1B8763",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6CD4885B58C2AC60F41C1DFF5D6ECAE747E26222" : "GitRebasePractise\/",
+    "E245F652575F4D66645E601403E0619FAB9D81EB" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FirebaseCloudMessagingExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FirebaseCloudMessagingExample\/FirebaseCloudMessagingExample.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vegiraju-chandu\/GitRebasePractise.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6CD4885B58C2AC60F41C1DFF5D6ECAE747E26222"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vegiraju-chandu\/GitRebaseExample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E245F652575F4D66645E601403E0619FAB9D81EB"
+    }
+  ]
+}
